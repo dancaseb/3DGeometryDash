@@ -62,7 +62,7 @@ CharacterController:
   serializedVersion: 3
   m_Height: 1.8
   m_Radius: 0.5
-  m_SlopeLimit: 45
+  m_SlopeLimit: 60
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
@@ -575,19 +575,19 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0
+          value: -2
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.5
+          value: 2
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0
+          value: -30
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
@@ -1861,13 +1861,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7453609628397926029}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.09509606, y: -0, z: -0, w: 0.99546814}
-  m_LocalPosition: {x: 0, y: 1.8, z: -4.32}
+  m_LocalRotation: {x: 0.38073695, y: -0, z: -0, w: 0.92468345}
+  m_LocalPosition: {x: 0, y: 5.2, z: -4.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1524259225156127367}
-  m_LocalEulerAnglesHint: {x: 10.914, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 44.759, y: 0, z: 0}
 --- !u!20 &5478738660164523610
 Camera:
   m_ObjectHideFlags: 0
