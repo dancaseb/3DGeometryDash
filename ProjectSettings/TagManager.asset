@@ -6,6 +6,8 @@ TagManager:
   tags:
   - death
   - coin
+  - Step
+  - endStep
   layers:
   - Default
   - TransparentFX
