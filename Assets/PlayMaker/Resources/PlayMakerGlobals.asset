@@ -41,3 +41,10 @@ MonoBehaviour:
   - CoinCollect
   - PlayMusic
   - StopMusic
+  - PlayCoinMusic
+  - StopCoinMusic
+  - PlayCoinSound
+  - StopCoinSound
+  - PlayDeathSound
+  - StopDeathsound
+  - StopDeathSound

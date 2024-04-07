@@ -8,6 +8,7 @@ TagManager:
   - coin
   - Step
   - endStep
+  - FinishLine
   layers:
   - Default
   - TransparentFX
